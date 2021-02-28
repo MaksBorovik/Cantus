@@ -60,11 +60,11 @@ button {
 }
 
 .appleStoreButton {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/badge-example-preferred_21x.png");
+    background-image: url("file:///D:/макети – копія/Cantus/images/badge-example-preferred_21x.png");
 }
 
 .googlePlayButton {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/google-play-badge.png");
+    background-image: url("file:///D:/макети – копія/Cantus/images/google-play-badge.png");
     position: relative;
     left: 5%;
 }
@@ -231,7 +231,7 @@ input[type="search"] {
     display: flex;
     flex-direction: column;
     height: 600px;
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/02_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/02_Homepage.jpg");
 }
 
 .discover .discover_title {
@@ -259,15 +259,15 @@ input[type="search"] {
 }
 
 .members .membersBlock_1 {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/07_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/07_Homepage.jpg");
 }
 
 .members .membersBlock_2 {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/05_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/05_Homepage.jpg");
 }
 
 .members .membersBlock_3 {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/06_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/06_Homepage.jpg");
 }
 
 .members .membersBlock_1 {
@@ -322,7 +322,7 @@ input[type="search"] {
 }
 
 .conserts .conserts_video_player {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/13_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/13_Homepage.jpg");
 }
 
 .conserts .conserts_date_consert {
@@ -330,7 +330,7 @@ input[type="search"] {
     font-size: 0.8rem;
     font-family: "Lato", sans-serif;
     color: #FFFFFF;
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/10_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/10_Homepage.jpg");
 }
 
 .conserts .conserts_date_title,
@@ -364,7 +364,7 @@ input[type="search"] {
     max-width: 75%;
     height: 450px;
     margin: 0 auto;
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/18_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/18_Homepage.jpg");
     margin-top: 3.5em;
 }
 
@@ -453,7 +453,7 @@ input[type="search"] {
     flex-direction: column;
     max-width: 75%;
     height: 450px;
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/03_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/03_Homepage.jpg");
     margin: 0 auto;
     margin-top: 2em;
 }
@@ -523,19 +523,19 @@ input[type="search"] {
 }
 
 .founder_photo_john-towner {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/04_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/04_Homepage.jpg");
 }
 
 .founder_photo_mountain {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/05_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/05_Homepage.jpg");
 }
 
 .founder_photo_wild {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/06_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/06_Homepage.jpg");
 }
 
 .founder_photo_vacation {
-    background-image: url("file:///C:/Users/maks7/Downloads/Нова папка/Cantus/images/07_Homepage.jpg");
+    background-image: url("file:///D:/макети – копія/Cantus/images/07_Homepage.jpg");
 }
 
 .caption span {
